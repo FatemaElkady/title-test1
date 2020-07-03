@@ -8,3 +8,5 @@ echo "userName = " . "omar elkady" ;
 echo "password = " . "omar elkady" ;
 
 echo email = "omar.gmail.com" ;
+
+echo "name = omar elkady" ;
